@@ -91,7 +91,8 @@ OUTPUT:
 
 <img width="755" height="700" alt="edm2 1-2" src="https://github.com/user-attachments/assets/eb4ae110-0a31-4e99-a4b0-84efedb69d65" />
 
-<img width="1087" height="767" alt="exp 2 1" src="https://github.com/user-attachments/assets/dcde185f-95b0-4b83-b54e-43f6bb71416e" />
+<img width="1493" height="1054" alt="Updated Technical Drawing Title Block" src="https://github.com/user-attachments/assets/a67b6c1e-977a-4e58-9640-069a03335134" />
+
 
 
 
