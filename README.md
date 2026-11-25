@@ -82,13 +82,18 @@ STEP-11: Create a Line
 6. Click Extrude. 
 7. Enter the required extrusion distance. 
 8. Press Enter to complete the operation.
+
 INPUT:
 <img width="776" height="646" alt="edm2 1-1" src="https://github.com/user-attachments/assets/1e8a58f7-1ea4-48b2-926e-d95caed01496" />
 
+
 OUTPUT:
+
 <img width="755" height="700" alt="edm2 1-2" src="https://github.com/user-attachments/assets/eb4ae110-0a31-4e99-a4b0-84efedb69d65" />
 
 <img width="1088" height="767" alt="Screenshot 2026-11-15 214109" src="https://github.com/user-attachments/assets/4b8479ae-44ef-40e3-a9e5-cb3de16820cd" />
 
+
 RESULT: 
+
 THUS WE GET THE EXPECTED 3 D MODEL GIVEN.
