@@ -91,7 +91,8 @@ OUTPUT:
 
 <img width="755" height="700" alt="edm2 1-2" src="https://github.com/user-attachments/assets/eb4ae110-0a31-4e99-a4b0-84efedb69d65" />
 
-<img width="1088" height="767" alt="Screenshot 2026-11-15 214109" src="https://github.com/user-attachments/assets/4b8479ae-44ef-40e3-a9e5-cb3de16820cd" />
+<img width="1087" height="767" alt="exp 2 1" src="https://github.com/user-attachments/assets/dcde185f-95b0-4b83-b54e-43f6bb71416e" />
+
 
 
 RESULT: 
